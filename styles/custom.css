@@ -1,0 +1,37 @@
+body
+{}
+
+
+.cover
+{
+	background-color: #dedede;
+	padding: 10px 10px;
+	margin: 60px 10px;
+	width: 800px;
+	border-style: solid;
+	border-color: #dedede;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.boxes
+{
+	margin: 2px 2px;
+}
+
+.cover.heads
+{
+	background-color: olive;
+	width: 10px;
+}
+
+#txtname
+{
+	position: relative;
+	bottom: -15px;
+}
+
+.labeldrop
+{
+	position: relative;
+	bottom: -15px;
+}
